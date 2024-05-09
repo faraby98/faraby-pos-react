@@ -1,0 +1,1 @@
+# faraby-pos-react
